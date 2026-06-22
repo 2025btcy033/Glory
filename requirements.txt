@@ -1,1 +1,1 @@
-python-telegram-bot aiosqlite
+python-telegram-bot and aiosqlite
