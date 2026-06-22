@@ -39,8 +39,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ================= Configuration =================
-BOT_TOKEN = "8612061270:AAEKClVpe--qrlG7QtlCILsqVkIK5QaE7qo"
-ADMIN_IDS = [7637620066]
+BOT_TOKEN = "8624279554:AAGhy5cv3daqHHuXKEBzz9F3B2In6hzW13g"
+ADMIN_IDS = [7514425221]
 
 # Channels to join (without @)
 REQUIRED_CHANNELS = ["DGDRIFT", "DRIFTARMYFF"]
