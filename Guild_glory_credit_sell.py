@@ -42,8 +42,8 @@ logger = logging.getLogger(__name__)
 BOT_TOKEN = "8624279554:AAGhy5cv3daqHHuXKEBzz9F3B2In6hzW13g"
 ADMIN_IDS = [7514425221]
 
-# Channels to join (without @)
-REQUIRED_CHANNELS = ["DGDRIFT", "DRIFTARMYFF"]
+# Channel to join (without @)
+REQUIRED_CHANNELS = ["FLASHFF_07"]
 
 # Conversation States
 (
